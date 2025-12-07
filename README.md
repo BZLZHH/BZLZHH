@@ -1,16 +1,46 @@
-## Hi there 👋
+# Hi, I'm BZLZHH 👋
 
-<!--
-**BZLZHH/BZLZHH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+*Simple at heart. Free in code.*
 
-Here are some ideas to get you started:
+A hobbyist C++ developer contributing to open-source.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Technical Stack
+
+**Primary Language:** C++  
+**Secondary Languages:** C  
+
+---
+
+## Contact & Links
+
+- **Email:** admin@bzlzhh.top
+- **Website:** https://bzlzhh.top *(nothing inside right now)*
+- **Bilibili:** [Link](https://space.bilibili.com/477062582)
+
+---
+
+## Projects
+
+These are the main projects I participate in and primarily develop:
+
+**MobileGL** (MobileGL-Dev/MobileGL)  
+A desktop OpenGL implementation with a state-management layer and multiple backends; aims to provide a full OpenGL implementation (work-in-progress, not production-ready).  
+**GitHub:** https://github.com/MobileGL-Dev/MobileGL
+
+**NG-GL4ES** (BZLZHH/NG-GL4ES)  
+A fork of gl4es providing an OpenGL-over-OpenGL ES compatibility layer (translates desktop GL calls to GLES).  
+**GitHub:** https://github.com/BZLZHH/NG-GL4ES
+
+**MobileGlues** (MobileGL-Dev/MobileGlues)  
+A lightweight GL implementation that runs on host OpenGL ES 3.x, designed as a minimal backend to support projects like Minecraft: Java Edition and its plugins.  
+**GitHub:** https://github.com/MobileGL-Dev/MobileGlues-release or https://github.com/MobileGL-Dev/MobileGlues
+
+---
+
+## Current Focus
+
+- Developing MobileGL project
+
+---
