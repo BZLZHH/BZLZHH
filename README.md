@@ -1,6 +1,6 @@
 # Hi, I'm BZLZHH 👋
 
-*Simple at heart. Free in code.*
+*Pure at heart. Free in code.*
 
 A hobbyist C++ developer contributing to open-source.
 
