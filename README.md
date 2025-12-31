@@ -16,7 +16,7 @@ A hobbyist C++ developer contributing to open-source.
 ## Contact & Links
 
 - **Email:** admin@bzlzhh.top
-- **Website:** https://bzlzhh.top *(nothing inside right now)*
+- **Website:** https://bzlzhh.top
 - **Bilibili:** [Link](https://space.bilibili.com/477062582)
 
 ---
