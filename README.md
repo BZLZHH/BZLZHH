@@ -1,6 +1,6 @@
 # Hi, I'm BZLZHH 👋
 
-A hobbyist C++ developer contributing to open-source.
+A hobbyist software developer contributing to open-source.
 
 *Pure at heart. Free in code.*
 
